@@ -40,9 +40,8 @@ public class PointCardinal {
         }
 	}
 			
-			
-	}
 	
+	}
 	
 
 	@Override
@@ -64,7 +63,7 @@ public class PointCardinal {
 
 	@Override
 	public String toString() {
-		return "PointCardinal [point=" + point + "]";
+		return String.valueOf(point);
 	}
 	
 	
