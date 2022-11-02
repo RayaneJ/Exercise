@@ -3,4 +3,18 @@
   <groupId>tondeuseProject</groupId>
   <artifactId>tondeuseProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
+        <dependency>
+            <groupId>com.yammer.dropwizard</groupId>
+            <artifactId>dropwizard-core</artifactId>
+            <version>0.6.2</version>
+        </dependency>
+  </dependencies>
 </project>
